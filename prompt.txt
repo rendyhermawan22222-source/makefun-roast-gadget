@@ -1,0 +1,24 @@
+Build prompt — One-Line Roast: The Gadget You Use Every Day
+(make.fun competition u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+
+What was built: a tiny Python program (main.py) that writes one original
+roast line to /output/entry.txt and verifies it by reading it back
+(1-200 characters, a single line, non-blank, plain ASCII).
+
+How the line was chosen: I read the autopilot's one-line comedy lessons
+first (three-beat escalation, last clause carries the turn, one concrete
+behavioural detail, 90-190 bytes, never copy anyone else's text). I
+brainstormed 20 candidate lines across different daily gadgets and apps
+(phone battery, rating prompts, smart kettle, autocorrect, printer, TV
+remote, earbuds case, Face ID, smartwatch, robot vacuum, router,
+microwave, alarm, voice assistant, car sensors, laptop fan, doorbell,
+phone storage), scored each on funny / fresh / neat / specific, and
+rejected the ones that repeated the brief's own examples (phone dying at
+4 p.m., smart kettle firmware update) or crowded tropes (printer,
+Roomba). The winner roasts the car's reverse sensors: hypervigilant
+about nothing, blind to the one real hazard — a three-beat escalation
+(leaf, shadow, its own reflection) with the turn in the final clause.
+
+The chosen line (107 characters, 107 bytes, plain ASCII):
+
+My car beeps at a leaf, a shadow, and its own reflection, but stays silent for the one pole I actually hit.
